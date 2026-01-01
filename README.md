@@ -67,8 +67,8 @@ Download Ollama from:
 https://ollama.com  
 
 Pull the required models:
-ollama pull nomic-embed-text  
-ollama pull llama3.1  
+- ollama pull nomic-embed-text  
+- ollama pull llama3.1  
 
 ### 5️⃣ Add your PDF
 data/book.pdf  
