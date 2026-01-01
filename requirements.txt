@@ -1,0 +1,8 @@
+# requirements.txt
+pymupdf
+langchain-core
+langchain-community
+langchain-ollama
+faiss-cpu
+ollama
+python-dotenv
